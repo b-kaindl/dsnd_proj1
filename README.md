@@ -15,7 +15,7 @@ Running this notebook requires the following:
 To get started you can either download the code files in this repository or clone them using `git clone`. This should be enough to set you up to play with the data.
 
 ## Motivation
-This project was created for Udacity's Data Scientist Nanodegree Program. It is meant to provide inspiration and a potential starting point to motivate the usage of data-driven methods in game design (or level designn in particular for this example.
+This project was created for Udacity's Data Scientist Nanodegree Program. It is meant to provide inspiration and a potential starting point to motivate the usage of data-driven methods in game design (or level designn in particular for this example). See the corresponding [blog post] (https://medium.com/@bernhard.kaindl/how-to-make-a-super-mario-maker-level-that-rocks-4453c0711609?sk=60c741ae1ae1a5a0a046603c708d1e49) on Medium.
 
 ## Files
 `dsnd_proj1.ipynb` - Jupyer notebook containing code for analysis and output.
